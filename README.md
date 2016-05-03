@@ -1,4 +1,4 @@
-# Infoxpression
+# Infoxpression is a project of Wings of fire & Cogitans | Techspace, mozilla club and technical club of USICT.
 Techfest USICT
 
 InfoXpression is the annual techno-cultural fest of University school of Information and Communication Technology. 
